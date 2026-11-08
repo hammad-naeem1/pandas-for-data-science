@@ -1,0 +1,501 @@
+Launch_ID,Year,Operator,Mission_Type,Orbit,Payload_Mass_kg,Cost_Million_USD,Launch_Status
+MIS-1000,2018,ISRO,Communications,LEO,1211.9,47.04,Success
+MIS-1001,2025,ESA,Earth Observation,LEO,1142.8,42.08,Success
+MIS-1002,2022,NASA,Crewed Spaceflight,LEO,8435.1,168.14,Success
+MIS-1003,2021,Rocket Lab,Scientific Research,LEO,1154.8,36.18,Failure
+MIS-1004,2014,ISRO,Scientific Research,LEO,1260.8,35.44,Success
+MIS-1005,2014,SpaceX,Deep Space Exploration,LEO,5136.1,66.94,Success
+MIS-1006,2011,CNSA,Deep Space Exploration,MEO,2240.8,63.61,Success
+MIS-1007,2024,Rocket Lab,Scientific Research,LEO,5397.5,99.19,Success
+MIS-1008,2021,CNSA,Communications,MEO,386.6,14.78,Success
+MIS-1009,2022,ISRO,Earth Observation,GEO,2490.1,74.77,Success
+MIS-1010,2010,Roscosmos,Communications,SSO,269.7,12.3,Success
+MIS-1011,2025,NASA,Technology Demonstration,GEO,376.5,16.9,Success
+MIS-1012,2023,CNSA,Technology Demonstration,Interplanetary,8441.9,139.26,Success
+MIS-1013,2015,Blue Origin,Communications,LEO,674.8,31.82,Success
+MIS-1014,2014,SpaceX,Scientific Research,LEO,2810.7,64.28,Success
+MIS-1015,2014,SpaceX,Technology Demonstration,LEO,2003.2,70.24,Success
+MIS-1016,2017,NASA,Communications,MEO,1643.5,26.0,Success
+MIS-1017,2020,Rocket Lab,Earth Observation,SSO,8203.2,138.59,Success
+MIS-1018,2019,CNSA,Technology Demonstration,LEO,227.2,13.89,Success
+MIS-1019,2016,SpaceX,Communications,SSO,3965.1,101.62,Success
+MIS-1020,2021,Roscosmos,Deep Space Exploration,LEO,11726.4,246.09,Success
+MIS-1021,2013,NASA,Communications,SSO,3024.8,43.37,Success
+MIS-1022,2016,CNSA,Technology Demonstration,LEO,9816.3,144.29,Success
+MIS-1023,2018,Rocket Lab,Technology Demonstration,LEO,337.9,22.27,Success
+MIS-1024,2019,Rocket Lab,Technology Demonstration,LEO,2049.3,65.01,Success
+MIS-1025,2023,ESA,Earth Observation,LEO,1204.6,37.59,Success
+MIS-1026,2015,NASA,Crewed Spaceflight,LEO,4743.3,68.14,Success
+MIS-1027,2020,SpaceX,Scientific Research,LEO,14076.8,350.11,Success
+MIS-1028,2021,SpaceX,Communications,SSO,1187.5,22.61,Success
+MIS-1029,2011,Blue Origin,Scientific Research,LEO,3866.4,112.82,Success
+MIS-1030,2021,Rocket Lab,Communications,LEO,922.7,28.18,Failure
+MIS-1031,2014,CNSA,Earth Observation,MEO,3066.1,77.93,Success
+MIS-1032,2012,CNSA,Communications,GEO,2332.2,47.06,Success
+MIS-1033,2025,Roscosmos,Communications,LEO,12665.1,119.16,Success
+MIS-1034,2025,Rocket Lab,Communications,LEO,3432.4,85.68,Success
+MIS-1035,2023,CNSA,Deep Space Exploration,LEO,1655.1,47.92,Success
+MIS-1036,2017,Rocket Lab,Communications,LEO,574.0,25.67,Success
+MIS-1037,2012,SpaceX,Scientific Research,GEO,724.0,17.93,Success
+MIS-1038,2022,ESA,Communications,LEO,1043.6,41.17,Success
+MIS-1039,2019,SpaceX,Communications,LEO,1161.4,44.65,Success
+MIS-1040,2013,CNSA,Earth Observation,GEO,6804.3,136.38,Success
+MIS-1041,2019,Roscosmos,Scientific Research,LEO,3033.2,74.12,Success
+MIS-1042,2011,SpaceX,Communications,MEO,2743.7,68.92,Success
+MIS-1043,2024,ISRO,Deep Space Exploration,LEO,576.7,22.38,Partial Failure
+MIS-1044,2016,Roscosmos,Crewed Spaceflight,Interplanetary,7034.9,81.46,Success
+MIS-1045,2021,NASA,Deep Space Exploration,LEO,4640.7,83.35,Success
+MIS-1046,2017,SpaceX,Communications,SSO,395.2,14.07,Success
+MIS-1047,2020,ISRO,Communications,MEO,4456.5,76.51,Success
+MIS-1048,2020,ESA,Crewed Spaceflight,LEO,2894.9,59.23,Success
+MIS-1049,2014,Rocket Lab,Communications,MEO,448.4,19.44,Success
+MIS-1050,2025,ESA,Crewed Spaceflight,Interplanetary,2295.7,43.37,Success
+MIS-1051,2023,Blue Origin,Earth Observation,MEO,2470.5,40.31,Success
+MIS-1052,2025,Roscosmos,Technology Demonstration,SSO,784.4,29.32,Success
+MIS-1053,2024,Roscosmos,Scientific Research,SSO,10346.2,263.1,Failure
+MIS-1054,2021,Blue Origin,Technology Demonstration,LEO,6789.3,86.03,Success
+MIS-1055,2025,NASA,Earth Observation,LEO,4020.0,119.13,Success
+MIS-1056,2012,SpaceX,Scientific Research,MEO,2321.6,47.7,Success
+MIS-1057,2015,SpaceX,Earth Observation,LEO,2007.2,45.43,Success
+MIS-1058,2011,Rocket Lab,Earth Observation,SSO,3834.1,54.74,Success
+MIS-1059,2017,Roscosmos,Deep Space Exploration,SSO,2909.4,57.29,Success
+MIS-1060,2018,ISRO,Crewed Spaceflight,LEO,375.0,27.16,Success
+MIS-1061,2016,SpaceX,Technology Demonstration,LEO,2664.6,76.04,Success
+MIS-1062,2023,SpaceX,Scientific Research,GEO,5896.9,61.6,Success
+MIS-1063,2017,SpaceX,Earth Observation,LEO,2301.7,31.68,Success
+MIS-1064,2016,NASA,Earth Observation,SSO,336.7,25.09,Success
+MIS-1065,2020,Roscosmos,Scientific Research,LEO,5550.8,88.63,Success
+MIS-1066,2014,NASA,Communications,GEO,937.0,28.96,Success
+MIS-1067,2023,NASA,Communications,LEO,1197.4,32.0,Success
+MIS-1068,2012,CNSA,Earth Observation,MEO,779.9,33.85,Success
+MIS-1069,2025,NASA,Communications,LEO,1552.8,45.32,Success
+MIS-1070,2023,ESA,Communications,MEO,5097.9,96.13,Success
+MIS-1071,2015,Rocket Lab,Communications,LEO,2714.4,84.38,Success
+MIS-1072,2010,NASA,Communications,GEO,952.4,26.68,Success
+MIS-1073,2023,Roscosmos,Communications,SSO,7508.2,135.66,Success
+MIS-1074,2022,Blue Origin,Technology Demonstration,LEO,7558.7,96.86,Success
+MIS-1075,2022,CNSA,Earth Observation,LEO,7306.4,155.58,Success
+MIS-1076,2023,SpaceX,Earth Observation,LEO,1105.0,45.09,Success
+MIS-1077,2012,CNSA,Deep Space Exploration,MEO,2250.3,55.78,Success
+MIS-1078,2017,ESA,Communications,MEO,14846.6,229.7,Success
+MIS-1079,2013,SpaceX,Technology Demonstration,LEO,5324.6,114.57,Success
+MIS-1080,2024,ESA,Scientific Research,LEO,246.4,20.31,Success
+MIS-1081,2021,CNSA,Communications,LEO,386.0,18.82,Success
+MIS-1082,2017,ESA,Earth Observation,MEO,2332.2,53.49,Success
+MIS-1083,2012,NASA,Crewed Spaceflight,LEO,8547.6,147.8,Success
+MIS-1084,2017,Roscosmos,Technology Demonstration,Interplanetary,2858.0,67.46,Success
+MIS-1085,2017,SpaceX,Earth Observation,LEO,2560.7,60.84,Success
+MIS-1086,2022,SpaceX,Deep Space Exploration,GEO,540.1,19.32,Success
+MIS-1087,2021,SpaceX,Communications,LEO,3892.8,95.45,Success
+MIS-1088,2024,SpaceX,Technology Demonstration,LEO,6192.9,87.83,Success
+MIS-1089,2019,SpaceX,Communications,GEO,1825.5,43.73,Success
+MIS-1090,2013,SpaceX,Technology Demonstration,GEO,5380.3,142.02,Failure
+MIS-1091,2022,Roscosmos,Deep Space Exploration,Interplanetary,11831.5,278.26,Success
+MIS-1092,2023,SpaceX,Deep Space Exploration,LEO,947.5,25.02,Success
+MIS-1093,2020,NASA,Earth Observation,LEO,2743.3,64.65,Success
+MIS-1094,2023,Blue Origin,Communications,GEO,1334.6,26.4,Success
+MIS-1095,2019,ESA,Communications,MEO,5660.2,136.21,Success
+MIS-1096,2020,ISRO,Communications,LEO,3166.3,56.41,Success
+MIS-1097,2018,SpaceX,Communications,LEO,3673.5,74.23,Success
+MIS-1098,2010,SpaceX,Scientific Research,LEO,5746.7,84.83,Success
+MIS-1099,2013,SpaceX,Earth Observation,SSO,1914.5,31.22,Success
+MIS-1100,2011,SpaceX,Communications,LEO,8781.6,174.66,Success
+MIS-1101,2021,SpaceX,Technology Demonstration,LEO,2815.2,35.96,Success
+MIS-1102,2017,SpaceX,Crewed Spaceflight,LEO,751.7,30.24,Success
+MIS-1103,2020,SpaceX,Technology Demonstration,LEO,4316.4,69.26,Failure
+MIS-1104,2024,SpaceX,Technology Demonstration,LEO,5667.0,63.76,Success
+MIS-1105,2016,ESA,Communications,LEO,1483.2,47.19,Success
+MIS-1106,2018,SpaceX,Earth Observation,LEO,6961.6,73.34,Success
+MIS-1107,2022,NASA,Scientific Research,SSO,8430.9,123.23,Success
+MIS-1108,2015,ESA,Deep Space Exploration,LEO,1284.7,43.22,Partial Failure
+MIS-1109,2012,ISRO,Communications,LEO,14519.9,148.99,Success
+MIS-1110,2016,SpaceX,Scientific Research,SSO,680.8,30.54,Success
+MIS-1111,2014,Rocket Lab,Communications,GEO,939.8,26.29,Success
+MIS-1112,2025,Roscosmos,Communications,LEO,862.7,27.93,Success
+MIS-1113,2023,SpaceX,Earth Observation,LEO,8004.8,173.67,Success
+MIS-1114,2021,Blue Origin,Earth Observation,LEO,3867.6,71.08,Success
+MIS-1115,2024,CNSA,Earth Observation,GEO,727.5,26.52,Success
+MIS-1116,2023,SpaceX,Communications,Interplanetary,2181.4,41.99,Success
+MIS-1117,2014,SpaceX,Crewed Spaceflight,GEO,3493.5,59.2,Success
+MIS-1118,2024,Rocket Lab,Communications,MEO,455.0,28.58,Success
+MIS-1119,2020,ISRO,Communications,GEO,7642.1,115.8,Failure
+MIS-1120,2023,SpaceX,Crewed Spaceflight,LEO,5846.7,145.55,Success
+MIS-1121,2024,SpaceX,Technology Demonstration,LEO,2612.7,87.33,Success
+MIS-1122,2017,NASA,Crewed Spaceflight,MEO,12102.8,197.15,Success
+MIS-1123,2013,ESA,Scientific Research,Interplanetary,2043.1,56.04,Success
+MIS-1124,2015,Roscosmos,Deep Space Exploration,LEO,14647.3,227.65,Success
+MIS-1125,2018,NASA,Earth Observation,GEO,4008.3,116.37,Success
+MIS-1126,2023,ESA,Communications,LEO,3674.4,48.82,Success
+MIS-1127,2024,ISRO,Earth Observation,LEO,785.1,37.72,Success
+MIS-1128,2010,SpaceX,Earth Observation,LEO,7627.6,133.36,Success
+MIS-1129,2020,SpaceX,Communications,LEO,2102.0,49.13,Success
+MIS-1130,2018,ISRO,Scientific Research,GEO,769.6,26.41,Success
+MIS-1131,2015,Blue Origin,Earth Observation,LEO,194.4,27.48,Success
+MIS-1132,2013,ESA,Communications,GEO,3021.5,49.36,Success
+MIS-1133,2017,ESA,Communications,GEO,2773.3,41.22,Success
+MIS-1134,2025,SpaceX,Deep Space Exploration,SSO,4597.3,104.76,Success
+MIS-1135,2017,NASA,Communications,LEO,7883.7,171.68,Success
+MIS-1136,2020,ESA,Crewed Spaceflight,LEO,439.6,23.8,Success
+MIS-1137,2022,SpaceX,Earth Observation,LEO,4752.1,114.27,Success
+MIS-1138,2018,SpaceX,Earth Observation,Interplanetary,876.4,36.3,Success
+MIS-1139,2025,NASA,Earth Observation,SSO,6986.1,144.73,Success
+MIS-1140,2025,SpaceX,Scientific Research,LEO,6133.6,95.08,Success
+MIS-1141,2016,NASA,Communications,SSO,2873.9,39.69,Success
+MIS-1142,2019,SpaceX,Deep Space Exploration,LEO,4485.5,108.04,Success
+MIS-1143,2017,NASA,Earth Observation,MEO,1470.9,50.09,Success
+MIS-1144,2016,SpaceX,Communications,LEO,2379.8,29.71,Success
+MIS-1145,2011,Blue Origin,Crewed Spaceflight,GEO,6183.8,106.39,Failure
+MIS-1146,2021,Roscosmos,Scientific Research,LEO,2301.9,69.46,Success
+MIS-1147,2020,ISRO,Deep Space Exploration,SSO,1700.0,41.66,Success
+MIS-1148,2011,Rocket Lab,Crewed Spaceflight,GEO,2535.7,57.89,Success
+MIS-1149,2016,ESA,Crewed Spaceflight,GEO,6316.0,116.37,Success
+MIS-1150,2024,SpaceX,Scientific Research,LEO,1579.0,36.09,Success
+MIS-1151,2015,ESA,Scientific Research,LEO,818.1,31.51,Success
+MIS-1152,2014,Roscosmos,Deep Space Exploration,LEO,4507.0,77.73,Success
+MIS-1153,2019,ISRO,Deep Space Exploration,LEO,6270.0,67.68,Success
+MIS-1154,2025,NASA,Deep Space Exploration,LEO,521.2,20.54,Success
+MIS-1155,2016,SpaceX,Scientific Research,SSO,1109.9,27.61,Success
+MIS-1156,2022,SpaceX,Communications,MEO,685.9,44.82,Success
+MIS-1157,2023,NASA,Crewed Spaceflight,LEO,1646.7,58.2,Success
+MIS-1158,2015,Roscosmos,Crewed Spaceflight,LEO,2244.7,34.29,Success
+MIS-1159,2022,Roscosmos,Communications,LEO,4985.6,103.99,Success
+MIS-1160,2018,NASA,Scientific Research,MEO,3835.9,78.89,Success
+MIS-1161,2021,CNSA,Communications,LEO,3545.1,99.14,Success
+MIS-1162,2021,Roscosmos,Communications,SSO,1670.6,37.24,Success
+MIS-1163,2020,SpaceX,Scientific Research,LEO,6595.8,142.49,Success
+MIS-1164,2012,SpaceX,Communications,Interplanetary,2380.6,58.01,Success
+MIS-1165,2023,SpaceX,Scientific Research,SSO,13688.8,194.87,Success
+MIS-1166,2017,SpaceX,Scientific Research,LEO,3669.3,53.3,Success
+MIS-1167,2014,SpaceX,Earth Observation,SSO,622.4,15.78,Success
+MIS-1168,2011,SpaceX,Communications,LEO,4096.5,98.06,Success
+MIS-1169,2021,SpaceX,Communications,SSO,1526.2,31.14,Success
+MIS-1170,2022,SpaceX,Deep Space Exploration,LEO,4207.9,95.67,Success
+MIS-1171,2010,Blue Origin,Technology Demonstration,SSO,402.6,35.85,Success
+MIS-1172,2020,SpaceX,Deep Space Exploration,SSO,822.8,33.4,Success
+MIS-1173,2015,ESA,Communications,SSO,6926.4,92.3,Success
+MIS-1174,2021,NASA,Deep Space Exploration,GEO,1052.0,43.95,Success
+MIS-1175,2014,CNSA,Earth Observation,LEO,6499.9,101.17,Success
+MIS-1176,2022,SpaceX,Scientific Research,LEO,1296.2,35.57,Success
+MIS-1177,2018,NASA,Communications,LEO,3753.9,51.77,Success
+MIS-1178,2025,CNSA,Scientific Research,LEO,4296.3,67.8,Success
+MIS-1179,2013,Blue Origin,Earth Observation,GEO,2665.7,54.05,Success
+MIS-1180,2017,Rocket Lab,Technology Demonstration,LEO,1425.0,35.25,Success
+MIS-1181,2013,SpaceX,Communications,Interplanetary,986.8,32.28,Success
+MIS-1182,2025,SpaceX,Deep Space Exploration,MEO,268.1,19.99,Success
+MIS-1183,2024,ISRO,Technology Demonstration,SSO,1418.2,30.89,Partial Failure
+MIS-1184,2016,CNSA,Communications,LEO,3856.1,65.88,Success
+MIS-1185,2021,Roscosmos,Technology Demonstration,SSO,9899.4,95.97,Success
+MIS-1186,2023,Roscosmos,Deep Space Exploration,SSO,7323.4,93.95,Success
+MIS-1187,2020,SpaceX,Communications,LEO,5234.5,98.28,Success
+MIS-1188,2020,Rocket Lab,Communications,MEO,5586.5,100.27,Success
+MIS-1189,2016,SpaceX,Scientific Research,GEO,3977.5,74.43,Success
+MIS-1190,2012,NASA,Communications,LEO,1205.2,31.97,Success
+MIS-1191,2024,NASA,Earth Observation,LEO,8470.4,162.17,Success
+MIS-1192,2024,ESA,Communications,LEO,4038.1,46.9,Success
+MIS-1193,2021,SpaceX,Deep Space Exploration,LEO,3026.9,61.55,Success
+MIS-1194,2017,SpaceX,Communications,LEO,561.8,40.83,Success
+MIS-1195,2017,Roscosmos,Crewed Spaceflight,LEO,2223.7,54.58,Failure
+MIS-1196,2022,SpaceX,Technology Demonstration,LEO,2309.0,53.18,Success
+MIS-1197,2024,Roscosmos,Technology Demonstration,LEO,7147.4,107.25,Partial Failure
+MIS-1198,2024,SpaceX,Scientific Research,Interplanetary,2918.8,81.86,Success
+MIS-1199,2023,ESA,Communications,LEO,1825.4,64.03,Failure
+MIS-1200,2021,ESA,Scientific Research,Interplanetary,13322.7,231.72,Success
+MIS-1201,2012,SpaceX,Communications,LEO,560.7,19.39,Success
+MIS-1202,2014,NASA,Communications,LEO,2072.0,45.35,Success
+MIS-1203,2024,SpaceX,Communications,LEO,300.3,19.44,Success
+MIS-1204,2021,SpaceX,Earth Observation,LEO,4863.5,113.24,Success
+MIS-1205,2010,CNSA,Scientific Research,LEO,8906.9,211.15,Success
+MIS-1206,2013,NASA,Deep Space Exploration,MEO,1299.9,14.88,Success
+MIS-1207,2021,Rocket Lab,Earth Observation,LEO,6990.2,102.5,Success
+MIS-1208,2010,SpaceX,Communications,MEO,1359.7,27.92,Success
+MIS-1209,2014,ISRO,Technology Demonstration,GEO,8607.9,131.41,Success
+MIS-1210,2020,Rocket Lab,Earth Observation,LEO,5057.9,116.87,Success
+MIS-1211,2022,Roscosmos,Earth Observation,LEO,5870.0,114.08,Success
+MIS-1212,2021,ESA,Communications,GEO,213.6,13.35,Success
+MIS-1213,2015,NASA,Scientific Research,LEO,11671.0,183.4,Success
+MIS-1214,2022,NASA,Deep Space Exploration,LEO,4689.8,48.15,Success
+MIS-1215,2015,CNSA,Communications,Interplanetary,1422.2,31.59,Success
+MIS-1216,2017,Rocket Lab,Communications,LEO,6339.4,130.4,Success
+MIS-1217,2022,CNSA,Deep Space Exploration,GEO,1307.2,50.36,Success
+MIS-1218,2021,SpaceX,Deep Space Exploration,Interplanetary,7365.7,184.28,Success
+MIS-1219,2024,ISRO,Communications,LEO,568.0,18.6,Success
+MIS-1220,2021,CNSA,Technology Demonstration,LEO,4407.2,117.77,Success
+MIS-1221,2020,SpaceX,Communications,LEO,2873.2,69.0,Success
+MIS-1222,2012,SpaceX,Earth Observation,LEO,505.3,24.25,Success
+MIS-1223,2018,ISRO,Technology Demonstration,LEO,1119.3,32.42,Success
+MIS-1224,2016,Roscosmos,Earth Observation,GEO,193.7,30.96,Success
+MIS-1225,2016,Rocket Lab,Deep Space Exploration,LEO,2363.9,40.52,Success
+MIS-1226,2025,SpaceX,Earth Observation,LEO,1404.7,35.13,Success
+MIS-1227,2018,Rocket Lab,Communications,Interplanetary,3342.7,59.7,Success
+MIS-1228,2024,SpaceX,Technology Demonstration,SSO,1384.6,33.28,Success
+MIS-1229,2021,SpaceX,Earth Observation,MEO,1398.0,46.48,Success
+MIS-1230,2023,SpaceX,Crewed Spaceflight,LEO,4908.0,118.49,Success
+MIS-1231,2020,Rocket Lab,Communications,MEO,322.7,22.13,Success
+MIS-1232,2020,ISRO,Communications,LEO,8311.9,89.4,Failure
+MIS-1233,2019,ESA,Communications,LEO,6843.1,187.28,Success
+MIS-1234,2015,NASA,Deep Space Exploration,LEO,4007.1,116.76,Success
+MIS-1235,2022,Blue Origin,Earth Observation,SSO,3298.2,82.28,Success
+MIS-1236,2016,NASA,Crewed Spaceflight,LEO,7949.5,205.97,Success
+MIS-1237,2010,Rocket Lab,Earth Observation,LEO,867.4,28.95,Success
+MIS-1238,2021,NASA,Technology Demonstration,LEO,437.9,21.67,Success
+MIS-1239,2014,NASA,Communications,LEO,1108.3,24.97,Success
+MIS-1240,2025,ESA,Crewed Spaceflight,SSO,5689.4,102.07,Failure
+MIS-1241,2025,NASA,Scientific Research,GEO,273.5,15.95,Success
+MIS-1242,2024,ISRO,Scientific Research,GEO,3209.7,51.15,Success
+MIS-1243,2018,ESA,Scientific Research,LEO,19014.6,212.92,Success
+MIS-1244,2010,SpaceX,Scientific Research,LEO,6925.4,147.92,Success
+MIS-1245,2025,Blue Origin,Deep Space Exploration,LEO,2729.4,61.85,Success
+MIS-1246,2018,NASA,Communications,LEO,380.1,18.74,Success
+MIS-1247,2025,ESA,Communications,LEO,6380.2,83.04,Success
+MIS-1248,2025,CNSA,Technology Demonstration,GEO,3348.1,93.95,Success
+MIS-1249,2024,Roscosmos,Deep Space Exploration,LEO,577.3,23.4,Success
+MIS-1250,2016,SpaceX,Scientific Research,LEO,495.0,12.84,Success
+MIS-1251,2018,CNSA,Earth Observation,LEO,8563.3,184.74,Success
+MIS-1252,2024,Roscosmos,Communications,LEO,4021.8,61.77,Success
+MIS-1253,2017,NASA,Communications,LEO,6337.2,96.94,Success
+MIS-1254,2014,SpaceX,Deep Space Exploration,Interplanetary,7541.3,189.83,Success
+MIS-1255,2020,Rocket Lab,Earth Observation,SSO,3118.4,54.43,Success
+MIS-1256,2025,Roscosmos,Communications,Interplanetary,2700.3,55.15,Success
+MIS-1257,2022,ESA,Earth Observation,LEO,2120.0,53.01,Success
+MIS-1258,2020,Blue Origin,Communications,LEO,1484.1,49.21,Success
+MIS-1259,2012,Rocket Lab,Earth Observation,LEO,2145.8,40.81,Success
+MIS-1260,2021,SpaceX,Communications,LEO,5353.4,74.49,Success
+MIS-1261,2025,NASA,Scientific Research,SSO,3373.9,36.75,Success
+MIS-1262,2014,SpaceX,Communications,LEO,7956.7,162.99,Success
+MIS-1263,2020,ISRO,Earth Observation,LEO,2200.6,49.32,Success
+MIS-1264,2024,SpaceX,Communications,LEO,3419.6,53.16,Success
+MIS-1265,2022,Roscosmos,Communications,LEO,3642.3,106.79,Success
+MIS-1266,2022,Rocket Lab,Earth Observation,GEO,3285.1,67.19,Success
+MIS-1267,2022,Blue Origin,Earth Observation,LEO,4394.8,68.64,Success
+MIS-1268,2017,NASA,Deep Space Exploration,LEO,1098.7,35.43,Success
+MIS-1269,2016,Rocket Lab,Communications,LEO,2663.6,74.36,Success
+MIS-1270,2023,SpaceX,Deep Space Exploration,LEO,535.2,23.5,Success
+MIS-1271,2023,Rocket Lab,Crewed Spaceflight,GEO,1848.7,42.37,Success
+MIS-1272,2024,SpaceX,Scientific Research,SSO,2490.7,69.51,Success
+MIS-1273,2024,NASA,Communications,Interplanetary,3846.7,82.89,Success
+MIS-1274,2020,Rocket Lab,Earth Observation,GEO,10672.4,201.59,Success
+MIS-1275,2020,SpaceX,Communications,LEO,3362.7,62.34,Success
+MIS-1276,2023,SpaceX,Communications,GEO,4913.5,64.99,Success
+MIS-1277,2021,ISRO,Technology Demonstration,LEO,2620.2,46.83,Success
+MIS-1278,2022,ISRO,Communications,LEO,3668.9,69.92,Success
+MIS-1279,2023,Roscosmos,Earth Observation,SSO,407.5,17.31,Failure
+MIS-1280,2024,ISRO,Deep Space Exploration,LEO,1177.4,26.9,Success
+MIS-1281,2017,ESA,Scientific Research,SSO,1722.2,55.79,Success
+MIS-1282,2018,SpaceX,Earth Observation,LEO,2388.6,74.94,Success
+MIS-1283,2012,NASA,Communications,MEO,313.5,23.29,Success
+MIS-1284,2020,SpaceX,Communications,GEO,678.0,38.76,Success
+MIS-1285,2011,CNSA,Earth Observation,SSO,1284.3,35.92,Success
+MIS-1286,2019,Roscosmos,Communications,MEO,12606.5,322.68,Success
+MIS-1287,2020,NASA,Earth Observation,MEO,1558.7,37.39,Success
+MIS-1288,2016,ESA,Communications,LEO,2452.5,69.12,Success
+MIS-1289,2021,CNSA,Communications,LEO,914.0,39.76,Success
+MIS-1290,2011,SpaceX,Earth Observation,LEO,3452.6,93.44,Success
+MIS-1291,2011,Roscosmos,Communications,GEO,1303.1,46.07,Success
+MIS-1292,2023,ESA,Earth Observation,LEO,961.7,27.77,Success
+MIS-1293,2018,Roscosmos,Deep Space Exploration,GEO,2694.0,45.18,Success
+MIS-1294,2013,SpaceX,Scientific Research,LEO,169.3,12.16,Success
+MIS-1295,2020,Blue Origin,Communications,LEO,176.9,14.28,Success
+MIS-1296,2023,CNSA,Communications,GEO,1015.4,22.53,Success
+MIS-1297,2015,Roscosmos,Communications,LEO,280.9,13.19,Success
+MIS-1298,2021,ISRO,Deep Space Exploration,LEO,550.1,28.65,Success
+MIS-1299,2012,CNSA,Scientific Research,LEO,1598.3,37.46,Success
+MIS-1300,2011,ISRO,Communications,Interplanetary,5828.6,135.63,Success
+MIS-1301,2020,SpaceX,Technology Demonstration,GEO,3120.6,95.73,Success
+MIS-1302,2020,Roscosmos,Communications,LEO,2665.8,81.65,Success
+MIS-1303,2021,Roscosmos,Earth Observation,LEO,1366.0,53.38,Success
+MIS-1304,2022,NASA,Scientific Research,LEO,9546.2,172.71,Success
+MIS-1305,2025,ISRO,Crewed Spaceflight,GEO,1920.5,66.54,Success
+MIS-1306,2020,CNSA,Scientific Research,GEO,468.9,19.33,Success
+MIS-1307,2017,CNSA,Scientific Research,LEO,3509.6,57.17,Failure
+MIS-1308,2023,ESA,Communications,LEO,573.0,25.09,Failure
+MIS-1309,2016,SpaceX,Scientific Research,LEO,1632.1,50.75,Success
+MIS-1310,2019,CNSA,Communications,GEO,2628.3,41.2,Success
+MIS-1311,2012,Rocket Lab,Crewed Spaceflight,GEO,7406.3,150.43,Success
+MIS-1312,2010,SpaceX,Earth Observation,LEO,2531.1,66.92,Success
+MIS-1313,2025,CNSA,Scientific Research,LEO,4390.4,57.52,Success
+MIS-1314,2023,Blue Origin,Earth Observation,LEO,17426.1,324.13,Failure
+MIS-1315,2022,ESA,Deep Space Exploration,Interplanetary,643.4,21.75,Success
+MIS-1316,2018,Roscosmos,Earth Observation,LEO,1274.2,40.24,Success
+MIS-1317,2014,NASA,Scientific Research,GEO,1906.4,24.48,Success
+MIS-1318,2014,SpaceX,Communications,MEO,2067.6,34.62,Partial Failure
+MIS-1319,2016,NASA,Communications,LEO,2002.8,46.31,Success
+MIS-1320,2020,Rocket Lab,Communications,LEO,8486.1,213.02,Success
+MIS-1321,2022,SpaceX,Communications,LEO,4531.6,71.78,Success
+MIS-1322,2021,NASA,Crewed Spaceflight,MEO,3426.9,80.67,Success
+MIS-1323,2016,NASA,Communications,GEO,1445.5,29.33,Success
+MIS-1324,2025,ESA,Technology Demonstration,MEO,6226.3,93.82,Success
+MIS-1325,2022,CNSA,Communications,LEO,11008.5,251.96,Success
+MIS-1326,2020,NASA,Communications,LEO,6175.2,142.66,Success
+MIS-1327,2021,NASA,Scientific Research,Interplanetary,155.5,8.67,Success
+MIS-1328,2018,ISRO,Deep Space Exploration,GEO,3691.0,71.9,Success
+MIS-1329,2016,ESA,Earth Observation,LEO,333.7,16.52,Success
+MIS-1330,2017,SpaceX,Earth Observation,Interplanetary,1192.6,37.69,Success
+MIS-1331,2022,ESA,Scientific Research,MEO,364.8,20.52,Success
+MIS-1332,2010,SpaceX,Communications,MEO,3390.4,47.31,Success
+MIS-1333,2013,SpaceX,Technology Demonstration,GEO,4210.8,73.03,Success
+MIS-1334,2011,ESA,Technology Demonstration,SSO,575.6,25.17,Success
+MIS-1335,2011,NASA,Deep Space Exploration,GEO,1844.9,60.18,Success
+MIS-1336,2024,CNSA,Communications,LEO,2282.3,74.14,Success
+MIS-1337,2022,NASA,Deep Space Exploration,LEO,1761.9,22.76,Success
+MIS-1338,2019,Roscosmos,Communications,SSO,601.5,31.38,Success
+MIS-1339,2012,Roscosmos,Communications,LEO,2050.2,47.42,Success
+MIS-1340,2019,SpaceX,Communications,LEO,5018.6,83.55,Success
+MIS-1341,2019,ISRO,Earth Observation,LEO,407.8,22.27,Success
+MIS-1342,2014,SpaceX,Crewed Spaceflight,LEO,442.5,25.25,Success
+MIS-1343,2019,CNSA,Scientific Research,MEO,1683.5,55.01,Success
+MIS-1344,2018,SpaceX,Scientific Research,SSO,10099.1,196.55,Success
+MIS-1345,2021,NASA,Earth Observation,LEO,4015.2,78.65,Success
+MIS-1346,2021,SpaceX,Communications,LEO,4123.5,108.6,Failure
+MIS-1347,2011,CNSA,Earth Observation,LEO,1722.5,29.57,Success
+MIS-1348,2018,ESA,Technology Demonstration,SSO,3302.0,76.19,Success
+MIS-1349,2021,Roscosmos,Communications,MEO,185.6,24.26,Success
+MIS-1350,2020,SpaceX,Crewed Spaceflight,LEO,3688.0,87.61,Success
+MIS-1351,2024,ISRO,Earth Observation,SSO,8708.0,125.71,Success
+MIS-1352,2021,SpaceX,Earth Observation,SSO,3468.8,64.11,Success
+MIS-1353,2014,Blue Origin,Scientific Research,SSO,7391.8,194.64,Success
+MIS-1354,2012,SpaceX,Earth Observation,SSO,4655.4,61.55,Success
+MIS-1355,2021,SpaceX,Crewed Spaceflight,LEO,599.6,30.18,Success
+MIS-1356,2010,SpaceX,Technology Demonstration,GEO,8296.0,113.24,Success
+MIS-1357,2021,ESA,Earth Observation,LEO,390.6,18.5,Success
+MIS-1358,2025,Roscosmos,Communications,SSO,2822.2,37.55,Success
+MIS-1359,2020,SpaceX,Earth Observation,GEO,686.6,30.36,Success
+MIS-1360,2018,Rocket Lab,Technology Demonstration,GEO,191.2,15.25,Success
+MIS-1361,2021,ESA,Communications,GEO,2068.8,49.15,Success
+MIS-1362,2019,ESA,Deep Space Exploration,LEO,1373.7,50.68,Success
+MIS-1363,2020,NASA,Deep Space Exploration,LEO,2479.4,52.35,Success
+MIS-1364,2025,NASA,Scientific Research,Interplanetary,3163.0,65.62,Success
+MIS-1365,2018,Roscosmos,Communications,SSO,306.5,9.97,Success
+MIS-1366,2025,SpaceX,Scientific Research,LEO,609.4,28.36,Success
+MIS-1367,2024,SpaceX,Technology Demonstration,LEO,3012.6,82.39,Success
+MIS-1368,2015,Blue Origin,Communications,LEO,1621.1,32.79,Success
+MIS-1369,2012,CNSA,Communications,GEO,4722.0,81.73,Success
+MIS-1370,2013,NASA,Technology Demonstration,SSO,3847.4,114.03,Success
+MIS-1371,2010,SpaceX,Communications,LEO,6688.8,173.6,Success
+MIS-1372,2012,Roscosmos,Crewed Spaceflight,LEO,4277.4,108.83,Success
+MIS-1373,2022,NASA,Earth Observation,SSO,2117.0,54.44,Success
+MIS-1374,2012,SpaceX,Communications,GEO,4061.9,111.19,Success
+MIS-1375,2017,SpaceX,Crewed Spaceflight,LEO,1277.4,35.58,Success
+MIS-1376,2024,ISRO,Earth Observation,MEO,1430.1,43.59,Success
+MIS-1377,2010,ISRO,Earth Observation,LEO,5595.4,85.94,Success
+MIS-1378,2023,SpaceX,Earth Observation,LEO,2219.7,51.35,Success
+MIS-1379,2016,SpaceX,Earth Observation,MEO,5754.8,76.82,Success
+MIS-1380,2013,SpaceX,Communications,GEO,6199.2,105.69,Success
+MIS-1381,2022,ISRO,Earth Observation,SSO,6971.0,180.52,Success
+MIS-1382,2021,SpaceX,Technology Demonstration,MEO,8845.9,119.72,Success
+MIS-1383,2024,SpaceX,Communications,GEO,2123.5,30.16,Success
+MIS-1384,2022,Rocket Lab,Deep Space Exploration,LEO,1494.0,38.64,Success
+MIS-1385,2023,SpaceX,Communications,LEO,3204.6,89.23,Success
+MIS-1386,2016,ISRO,Scientific Research,LEO,1773.6,42.8,Success
+MIS-1387,2014,SpaceX,Communications,LEO,3366.4,67.07,Success
+MIS-1388,2022,SpaceX,Technology Demonstration,GEO,4429.7,119.27,Success
+MIS-1389,2023,SpaceX,Earth Observation,Interplanetary,4231.2,113.24,Success
+MIS-1390,2025,ISRO,Communications,LEO,1792.5,41.54,Success
+MIS-1391,2018,Blue Origin,Communications,LEO,788.9,32.93,Success
+MIS-1392,2018,Rocket Lab,Communications,SSO,2120.7,59.98,Success
+MIS-1393,2023,NASA,Earth Observation,LEO,688.5,30.96,Success
+MIS-1394,2017,ISRO,Communications,MEO,7878.6,85.69,Success
+MIS-1395,2025,SpaceX,Scientific Research,GEO,1635.6,50.96,Success
+MIS-1396,2024,SpaceX,Earth Observation,MEO,737.2,28.86,Success
+MIS-1397,2018,Blue Origin,Communications,LEO,240.2,12.32,Success
+MIS-1398,2022,SpaceX,Deep Space Exploration,LEO,3782.8,74.54,Success
+MIS-1399,2022,SpaceX,Scientific Research,GEO,3695.8,45.9,Success
+MIS-1400,2013,SpaceX,Communications,MEO,1607.5,40.13,Success
+MIS-1401,2024,SpaceX,Communications,LEO,410.4,31.49,Success
+MIS-1402,2020,SpaceX,Communications,GEO,1994.5,28.63,Success
+MIS-1403,2023,Roscosmos,Scientific Research,LEO,1454.9,36.19,Success
+MIS-1404,2017,NASA,Deep Space Exploration,GEO,4106.7,83.96,Success
+MIS-1405,2024,Blue Origin,Earth Observation,LEO,3408.0,43.17,Success
+MIS-1406,2018,Rocket Lab,Scientific Research,Interplanetary,1737.2,58.61,Success
+MIS-1407,2010,NASA,Scientific Research,LEO,1010.2,23.17,Success
+MIS-1408,2024,SpaceX,Earth Observation,LEO,15640.5,215.35,Success
+MIS-1409,2012,NASA,Crewed Spaceflight,LEO,2268.0,47.98,Success
+MIS-1410,2017,Roscosmos,Communications,LEO,4229.7,68.55,Success
+MIS-1411,2025,SpaceX,Communications,SSO,680.1,16.44,Success
+MIS-1412,2025,Roscosmos,Communications,Interplanetary,2476.6,70.0,Success
+MIS-1413,2020,NASA,Communications,LEO,247.7,17.9,Success
+MIS-1414,2021,Roscosmos,Earth Observation,LEO,2614.4,47.15,Success
+MIS-1415,2019,NASA,Technology Demonstration,GEO,11786.5,246.25,Success
+MIS-1416,2016,SpaceX,Communications,SSO,1847.0,52.9,Success
+MIS-1417,2017,CNSA,Communications,MEO,289.2,23.76,Success
+MIS-1418,2022,Rocket Lab,Earth Observation,LEO,260.1,16.37,Success
+MIS-1419,2022,SpaceX,Technology Demonstration,LEO,1868.5,38.59,Success
+MIS-1420,2023,Blue Origin,Communications,GEO,760.3,24.26,Success
+MIS-1421,2023,ESA,Earth Observation,LEO,232.7,15.95,Success
+MIS-1422,2012,Blue Origin,Communications,MEO,5090.1,125.51,Success
+MIS-1423,2019,Rocket Lab,Communications,LEO,2297.1,32.73,Success
+MIS-1424,2011,NASA,Technology Demonstration,GEO,1345.0,31.79,Success
+MIS-1425,2020,SpaceX,Technology Demonstration,LEO,8212.0,205.19,Success
+MIS-1426,2019,SpaceX,Communications,MEO,582.1,26.36,Success
+MIS-1427,2024,ESA,Technology Demonstration,LEO,11076.0,287.84,Partial Failure
+MIS-1428,2017,Roscosmos,Deep Space Exploration,MEO,1468.9,45.28,Success
+MIS-1429,2013,SpaceX,Crewed Spaceflight,LEO,7825.0,132.3,Partial Failure
+MIS-1430,2014,SpaceX,Earth Observation,MEO,3382.9,80.4,Failure
+MIS-1431,2023,Rocket Lab,Earth Observation,MEO,6284.7,132.65,Success
+MIS-1432,2021,CNSA,Earth Observation,MEO,14626.0,145.5,Success
+MIS-1433,2013,ESA,Deep Space Exploration,MEO,1340.9,32.93,Success
+MIS-1434,2012,SpaceX,Communications,GEO,11516.9,243.58,Success
+MIS-1435,2022,SpaceX,Communications,SSO,1877.1,33.6,Success
+MIS-1436,2012,SpaceX,Communications,LEO,1854.4,50.59,Success
+MIS-1437,2023,CNSA,Scientific Research,SSO,1606.4,37.31,Success
+MIS-1438,2022,SpaceX,Communications,LEO,2878.6,82.35,Success
+MIS-1439,2012,Roscosmos,Deep Space Exploration,LEO,735.9,22.33,Success
+MIS-1440,2012,SpaceX,Technology Demonstration,LEO,2973.8,55.18,Success
+MIS-1441,2025,Roscosmos,Communications,LEO,2880.8,64.72,Success
+MIS-1442,2018,ISRO,Deep Space Exploration,GEO,5172.8,80.4,Success
+MIS-1443,2018,Rocket Lab,Earth Observation,GEO,6427.8,139.86,Success
+MIS-1444,2023,SpaceX,Crewed Spaceflight,GEO,2182.1,60.46,Success
+MIS-1445,2025,SpaceX,Communications,LEO,1410.0,24.5,Success
+MIS-1446,2025,SpaceX,Deep Space Exploration,LEO,1200.7,37.96,Success
+MIS-1447,2022,CNSA,Scientific Research,LEO,907.6,21.18,Success
+MIS-1448,2018,Blue Origin,Technology Demonstration,LEO,357.8,18.31,Success
+MIS-1449,2012,Roscosmos,Deep Space Exploration,LEO,1617.3,55.09,Success
+MIS-1450,2023,Roscosmos,Earth Observation,LEO,1252.7,43.56,Success
+MIS-1451,2020,ISRO,Deep Space Exploration,LEO,12028.1,267.25,Success
+MIS-1452,2018,SpaceX,Crewed Spaceflight,MEO,3005.3,77.29,Success
+MIS-1453,2024,CNSA,Earth Observation,GEO,1643.1,36.02,Partial Failure
+MIS-1454,2013,NASA,Communications,Interplanetary,3190.2,89.99,Success
+MIS-1455,2019,NASA,Technology Demonstration,SSO,674.6,19.48,Success
+MIS-1456,2010,ESA,Deep Space Exploration,MEO,2204.7,59.56,Success
+MIS-1457,2019,SpaceX,Deep Space Exploration,LEO,3594.4,92.24,Success
+MIS-1458,2011,SpaceX,Communications,MEO,2499.2,51.21,Success
+MIS-1459,2013,ISRO,Deep Space Exploration,GEO,1948.3,54.57,Success
+MIS-1460,2013,SpaceX,Earth Observation,LEO,17968.6,217.8,Success
+MIS-1461,2021,Roscosmos,Deep Space Exploration,LEO,7580.1,116.96,Partial Failure
+MIS-1462,2022,SpaceX,Communications,SSO,3568.1,72.6,Success
+MIS-1463,2021,NASA,Deep Space Exploration,LEO,3098.8,89.73,Success
+MIS-1464,2025,SpaceX,Technology Demonstration,MEO,3542.6,104.09,Success
+MIS-1465,2018,NASA,Communications,MEO,936.7,37.73,Success
+MIS-1466,2016,ISRO,Technology Demonstration,LEO,1909.6,56.29,Success
+MIS-1467,2024,SpaceX,Earth Observation,LEO,290.9,21.95,Success
+MIS-1468,2015,Roscosmos,Crewed Spaceflight,LEO,2408.9,75.02,Success
+MIS-1469,2025,ESA,Scientific Research,LEO,2890.9,52.88,Success
+MIS-1470,2010,ISRO,Earth Observation,LEO,1054.6,28.86,Success
+MIS-1471,2025,CNSA,Scientific Research,SSO,11787.6,146.2,Success
+MIS-1472,2011,ISRO,Crewed Spaceflight,LEO,8556.7,197.57,Success
+MIS-1473,2024,SpaceX,Earth Observation,LEO,4632.3,102.87,Success
+MIS-1474,2020,SpaceX,Communications,LEO,2817.9,55.69,Success
+MIS-1475,2025,SpaceX,Deep Space Exploration,SSO,7289.9,84.96,Success
+MIS-1476,2012,Roscosmos,Scientific Research,LEO,640.0,35.48,Success
+MIS-1477,2020,SpaceX,Scientific Research,LEO,5620.8,60.75,Success
+MIS-1478,2025,ESA,Scientific Research,SSO,616.6,32.07,Success
+MIS-1479,2020,Roscosmos,Earth Observation,SSO,5683.2,152.37,Success
+MIS-1480,2021,NASA,Scientific Research,LEO,1279.3,26.23,Success
+MIS-1481,2022,Rocket Lab,Communications,SSO,7487.1,100.18,Success
+MIS-1482,2019,SpaceX,Earth Observation,LEO,10241.0,227.46,Success
+MIS-1483,2021,SpaceX,Communications,LEO,713.9,29.26,Success
+MIS-1484,2021,ISRO,Communications,LEO,2324.0,53.96,Success
+MIS-1485,2024,ESA,Earth Observation,LEO,14019.3,356.13,Success
+MIS-1486,2011,ISRO,Earth Observation,GEO,2461.8,46.38,Success
+MIS-1487,2016,NASA,Deep Space Exploration,LEO,7121.2,141.21,Success
+MIS-1488,2025,SpaceX,Earth Observation,LEO,3259.8,91.99,Success
+MIS-1489,2024,Rocket Lab,Earth Observation,GEO,1796.9,54.93,Success
+MIS-1490,2019,Rocket Lab,Communications,GEO,1328.0,31.15,Success
+MIS-1491,2021,ISRO,Earth Observation,LEO,945.1,27.83,Success
+MIS-1492,2016,SpaceX,Communications,MEO,5171.2,112.34,Success
+MIS-1493,2014,Roscosmos,Communications,LEO,1860.2,36.58,Success
+MIS-1494,2019,NASA,Deep Space Exploration,GEO,2655.8,43.28,Success
+MIS-1495,2017,SpaceX,Deep Space Exploration,GEO,2522.7,66.8,Success
+MIS-1496,2021,CNSA,Deep Space Exploration,Interplanetary,3163.7,45.82,Success
+MIS-1497,2012,SpaceX,Earth Observation,LEO,7173.7,105.98,Success
+MIS-1498,2025,CNSA,Earth Observation,LEO,13973.9,192.65,Success
+MIS-1499,2025,NASA,Crewed Spaceflight,LEO,1982.4,57.53,Success

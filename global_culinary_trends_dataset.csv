@@ -1,0 +1,601 @@
+City,Cuisine_Type,Month,Avg_Rating_Out_of_5,Avg_Cost_Per_Person_USD,Total_Reviews,Vegan_Options
+London,French,Nov,4.39,115.53,3628,No
+Paris,Street Food,Jul,4.15,20.41,923,Yes
+Rio de Janeiro,Japanese,Jan,3.5,59.57,3645,No
+Cairo,Indian,Nov,4.5,120.92,2127,Yes
+London,Italian,Mar,3.79,29.22,3237,Yes
+Paris,Street Food,Apr,4.7,145.24,4730,No
+Cairo,French,May,4.75,12.93,1599,No
+Tokyo,French,Nov,4.61,35.06,606,No
+Sydney,French,Aug,4.96,33.58,98,Yes
+Tokyo,Vegan / Plant-Based,May,4.94,35.67,2966,No
+Cairo,Italian,Jun,4.18,22.33,4421,No
+Sydney,French,Feb,4.97,44.27,498,No
+Sydney,French,Oct,4.91,67.46,3756,Yes
+Tokyo,Mexican,Sep,4.02,29.66,2576,Yes
+Rio de Janeiro,Mexican,Mar,4.03,22.57,1349,Yes
+Cairo,Vegan / Plant-Based,May,4.71,20.75,4371,No
+Sydney,French,Jun,4.86,14.82,1686,Yes
+Cairo,Street Food,Nov,4.71,82.47,949,Yes
+Tokyo,Japanese,Mar,4.84,151.82,1469,No
+Paris,French,Dec,4.34,67.77,3522,No
+London,Mexican,Mar,4.73,15.23,2252,Yes
+New York,Indian,Mar,4.6,37.02,4197,No
+Tokyo,Italian,Sep,4.29,30.26,1764,No
+London,Indian,Jun,4.44,28.6,4969,No
+Cairo,Indian,Mar,3.95,10.52,297,No
+London,Mexican,Jan,4.76,14.88,629,Yes
+London,Mexican,Dec,4.59,53.78,4415,Yes
+New York,Japanese,Oct,4.0,31.45,4268,Yes
+Sydney,Vegan / Plant-Based,Mar,4.98,8.11,1092,Yes
+Tokyo,Mexican,Jun,4.41,23.86,4516,Yes
+Paris,Mexican,Mar,4.89,42.05,3386,No
+London,Street Food,Jun,4.43,121.4,4254,No
+Rio de Janeiro,Indian,Jul,4.59,36.19,466,No
+New York,Street Food,Feb,4.79,89.72,267,No
+Sydney,Street Food,Jun,4.89,65.05,4785,No
+London,French,Nov,4.69,13.46,3305,No
+Tokyo,Mexican,Mar,4.58,75.73,2154,No
+Paris,Street Food,Jan,4.68,39.84,2538,Yes
+Paris,Indian,Apr,4.85,15.03,3473,No
+Tokyo,Street Food,Jun,4.25,8.35,4879,Yes
+Rio de Janeiro,Street Food,Feb,4.04,86.38,2908,No
+Sydney,French,Apr,4.72,26.04,2746,Yes
+London,Japanese,Aug,4.55,30.11,1630,Yes
+London,Mexican,May,4.5,105.36,3919,Yes
+Sydney,Vegan / Plant-Based,Dec,4.83,151.28,608,Yes
+New York,Vegan / Plant-Based,Jan,4.63,100.22,1059,No
+Sydney,Mexican,Sep,4.55,14.82,3401,No
+Tokyo,Italian,Dec,4.46,35.08,2956,No
+Rio de Janeiro,Mexican,Mar,4.38,13.89,1286,Yes
+Rio de Janeiro,Japanese,Nov,4.73,28.78,1519,Yes
+Paris,French,Dec,4.69,25.5,2361,Yes
+Sydney,Japanese,Jul,4.86,15.29,1999,Yes
+New York,Italian,Jul,4.03,12.44,3479,No
+Sydney,Vegan / Plant-Based,Jan,4.78,46.81,2875,Yes
+Tokyo,Street Food,Mar,4.89,17.85,3390,No
+Sydney,Italian,Jul,4.78,50.79,3714,No
+New York,Street Food,Dec,4.52,97.88,4172,Yes
+Sydney,French,Jan,4.42,84.26,285,Yes
+Paris,Italian,Sep,4.33,12.42,966,Yes
+Tokyo,French,Mar,4.85,107.25,1636,Yes
+London,Street Food,Oct,4.58,19.04,1656,Yes
+London,Vegan / Plant-Based,Jun,4.28,13.94,3356,No
+Paris,Vegan / Plant-Based,Nov,4.48,69.54,3361,No
+Cairo,Italian,Jun,4.82,64.57,1241,No
+Tokyo,Indian,Jun,3.71,9.13,2966,No
+Sydney,Mexican,Jun,4.82,37.17,231,No
+Sydney,Japanese,Oct,4.66,11.84,3783,No
+London,French,Nov,4.24,42.69,1982,Yes
+New York,Street Food,Jan,4.37,80.41,3640,Yes
+London,Mexican,Oct,3.8,20.54,1829,No
+Rio de Janeiro,French,May,4.14,13.74,4771,No
+New York,Street Food,Jul,4.59,45.63,2834,No
+London,Vegan / Plant-Based,Oct,4.41,18.83,521,Yes
+Sydney,Japanese,Jan,4.88,14.38,3464,Yes
+Sydney,Mexican,May,4.57,26.56,1681,No
+London,Street Food,Nov,4.42,38.44,871,No
+Tokyo,Indian,Mar,4.25,78.82,3863,No
+Rio de Janeiro,Italian,Nov,4.49,10.24,4737,Yes
+New York,Vegan / Plant-Based,Aug,4.05,50.27,1356,Yes
+New York,Street Food,Feb,3.98,26.57,2620,Yes
+London,Vegan / Plant-Based,Nov,4.78,80.32,2713,Yes
+Rio de Janeiro,Vegan / Plant-Based,Jul,4.97,43.79,832,Yes
+Rio de Janeiro,Italian,Jul,4.95,37.67,3656,Yes
+Cairo,Italian,Jul,4.4,25.88,2779,No
+Rio de Janeiro,Mexican,Apr,4.82,24.51,2495,No
+Paris,French,Mar,4.43,71.18,2097,No
+Cairo,Street Food,Oct,4.04,29.97,2956,Yes
+Cairo,Vegan / Plant-Based,Oct,4.57,29.03,2601,No
+New York,Mexican,May,4.83,91.98,730,Yes
+New York,Italian,Aug,4.97,60.83,4149,Yes
+New York,Indian,Nov,4.28,42.53,4008,Yes
+Sydney,French,May,4.08,11.35,1068,Yes
+London,Mexican,Jun,4.94,30.83,1864,Yes
+London,Vegan / Plant-Based,Jun,4.12,27.57,4543,No
+New York,French,Jul,4.83,13.93,1137,No
+Paris,Vegan / Plant-Based,Feb,4.65,26.15,4145,No
+Rio de Janeiro,Mexican,Feb,4.72,13.38,4670,Yes
+London,French,Feb,4.13,72.69,918,Yes
+Sydney,Street Food,Jun,4.79,37.42,2522,No
+London,Street Food,Jan,3.91,32.65,1243,No
+London,Indian,Jun,4.95,18.1,1996,No
+Sydney,Japanese,Feb,4.18,16.18,902,No
+Rio de Janeiro,Street Food,Dec,4.74,109.09,2182,No
+New York,Street Food,Sep,4.7,34.61,63,No
+Cairo,Mexican,Aug,4.7,37.02,4961,No
+Paris,Italian,Dec,4.9,106.06,2808,No
+Sydney,Indian,May,4.5,50.58,2124,No
+Cairo,Italian,Jun,4.19,72.17,4560,No
+Tokyo,Vegan / Plant-Based,Aug,4.9,34.59,2703,Yes
+London,Italian,Jul,4.52,82.53,1229,Yes
+Rio de Janeiro,Vegan / Plant-Based,Oct,3.91,24.3,3890,No
+Tokyo,Mexican,Sep,4.77,110.87,3605,No
+London,Japanese,Jun,4.25,16.99,2159,Yes
+Cairo,Italian,May,4.6,10.25,1964,Yes
+Rio de Janeiro,Italian,May,4.89,121.33,630,No
+Cairo,Italian,Dec,4.58,21.3,465,No
+Sydney,Street Food,Jul,4.84,71.65,4219,No
+Sydney,Indian,Sep,4.24,26.17,3992,Yes
+London,Vegan / Plant-Based,Jun,4.65,97.85,3290,No
+New York,Mexican,Feb,4.12,26.41,600,No
+London,Street Food,Oct,4.26,45.56,1573,Yes
+New York,Street Food,Nov,4.57,14.29,3243,No
+Paris,Vegan / Plant-Based,Nov,4.76,40.7,2935,Yes
+Cairo,Italian,Jan,4.64,16.41,964,No
+Rio de Janeiro,French,Jul,4.72,19.09,2125,Yes
+London,Japanese,Aug,4.21,60.81,1269,No
+Rio de Janeiro,Street Food,Sep,4.36,24.41,2126,No
+Sydney,Mexican,Oct,4.47,65.19,1450,No
+Cairo,Vegan / Plant-Based,Nov,4.59,20.33,2662,No
+Rio de Janeiro,Italian,Oct,4.67,32.82,4571,No
+Cairo,Mexican,Oct,4.5,29.06,2394,Yes
+Rio de Janeiro,Mexican,Feb,3.94,105.81,4466,No
+Cairo,Mexican,Aug,4.62,33.7,366,No
+New York,Street Food,Mar,4.11,32.63,3255,Yes
+Cairo,Street Food,Jan,4.22,10.62,1395,No
+Paris,Italian,Feb,4.84,16.19,4454,No
+London,French,Dec,4.67,52.66,383,Yes
+Rio de Janeiro,Street Food,Apr,4.39,14.17,2679,No
+Rio de Janeiro,Vegan / Plant-Based,Nov,4.72,62.75,3152,No
+Sydney,Mexican,Oct,4.51,61.74,2788,Yes
+Sydney,Mexican,Aug,4.31,60.78,4035,No
+London,French,Dec,4.52,14.09,3953,Yes
+London,Street Food,Sep,4.56,16.19,481,No
+Cairo,French,Aug,4.55,19.48,4791,No
+Paris,Mexican,Jan,4.41,48.54,689,No
+Rio de Janeiro,Mexican,Feb,4.81,20.16,3119,No
+Paris,Vegan / Plant-Based,Jul,4.56,61.78,3542,No
+New York,Vegan / Plant-Based,Jul,4.34,35.53,636,No
+Cairo,French,Dec,4.61,55.29,229,No
+Rio de Janeiro,Italian,Jan,3.96,25.86,2526,Yes
+London,Street Food,Dec,4.8,29.48,1745,Yes
+Tokyo,Japanese,Dec,4.41,48.5,2768,No
+Rio de Janeiro,Vegan / Plant-Based,May,4.49,32.91,4327,No
+Paris,French,Oct,4.31,19.9,1608,Yes
+Sydney,Japanese,Oct,4.67,26.79,2416,Yes
+Cairo,Indian,Jun,4.63,158.94,465,No
+Cairo,Mexican,Dec,4.29,27.88,1353,No
+Paris,Indian,Jun,4.84,9.13,3972,No
+Tokyo,Italian,Jul,4.59,116.15,1542,Yes
+Sydney,Indian,Aug,4.57,58.42,1001,No
+Tokyo,Japanese,Apr,4.87,45.47,4566,No
+Sydney,Mexican,Mar,4.71,11.41,4796,No
+Sydney,Street Food,Aug,4.82,44.71,373,Yes
+New York,Mexican,May,4.32,24.35,816,No
+Cairo,Street Food,Oct,4.0,14.22,2683,Yes
+Sydney,French,Apr,4.56,50.04,3677,No
+Cairo,Japanese,Sep,4.33,17.79,778,No
+London,French,Jan,4.74,48.5,1820,Yes
+Tokyo,Mexican,Nov,4.69,18.26,648,Yes
+London,Indian,Dec,4.56,12.24,989,No
+Cairo,Japanese,Dec,4.81,26.6,4489,Yes
+Paris,Mexican,Sep,4.58,63.05,958,No
+Tokyo,Vegan / Plant-Based,Nov,4.27,15.11,588,Yes
+Sydney,Vegan / Plant-Based,Jan,4.76,12.37,1809,No
+Rio de Janeiro,French,Dec,4.26,26.03,2583,Yes
+Rio de Janeiro,Mexican,May,4.57,22.18,2151,No
+Paris,Japanese,Apr,4.7,29.34,2061,No
+Cairo,Vegan / Plant-Based,Oct,4.36,11.2,119,No
+Sydney,Indian,Jan,4.61,15.17,2357,No
+London,French,Jul,4.54,24.52,1026,No
+London,Mexican,Jan,4.54,87.97,2196,No
+Paris,Indian,Jan,4.6,27.15,4734,No
+Sydney,Mexican,Oct,4.66,26.06,1802,Yes
+Sydney,Indian,Mar,4.8,40.04,397,Yes
+Sydney,Indian,Aug,4.66,11.21,2121,No
+Cairo,Street Food,Jul,4.31,28.41,399,No
+New York,French,Jun,4.55,85.3,538,No
+London,Italian,Mar,4.56,17.98,4833,Yes
+Rio de Janeiro,French,Mar,4.01,14.12,4434,Yes
+Sydney,Vegan / Plant-Based,Jun,4.42,38.08,2308,No
+Paris,Mexican,Feb,4.48,18.63,2179,No
+Rio de Janeiro,French,Sep,4.6,79.1,4476,Yes
+Sydney,French,Feb,4.7,22.15,1180,Yes
+Tokyo,Japanese,Nov,4.87,13.66,3310,No
+Rio de Janeiro,Street Food,Mar,4.38,37.68,1274,No
+Sydney,Italian,Oct,3.89,16.0,3651,No
+New York,Mexican,Sep,4.83,62.62,4798,Yes
+Rio de Janeiro,Mexican,Feb,4.63,11.37,4051,No
+New York,Indian,Oct,4.62,13.88,3910,No
+Tokyo,Indian,Aug,4.82,59.99,2525,No
+New York,French,Oct,4.47,31.58,2431,No
+London,Indian,Oct,4.47,18.64,3906,No
+New York,French,Mar,4.65,84.82,3389,No
+Cairo,Italian,Jan,4.74,101.28,1507,No
+Paris,Japanese,Sep,4.55,74.03,591,No
+Rio de Janeiro,Italian,Feb,4.74,12.56,832,No
+Cairo,Japanese,Jan,4.72,31.25,2779,Yes
+New York,Indian,Apr,4.91,24.45,675,No
+Sydney,Mexican,Oct,4.56,11.9,4692,No
+New York,Japanese,Jan,4.85,13.81,4089,No
+Tokyo,Vegan / Plant-Based,Apr,4.74,21.36,4817,No
+Rio de Janeiro,Japanese,Oct,4.61,22.03,42,No
+Paris,Italian,Jun,4.21,38.04,4093,Yes
+Paris,French,Jun,4.32,9.37,839,No
+Paris,Japanese,Sep,4.88,66.1,4774,No
+Paris,Italian,Nov,4.41,9.25,4126,No
+New York,Vegan / Plant-Based,Jul,4.49,24.13,353,No
+Tokyo,Vegan / Plant-Based,Mar,4.57,30.03,1041,No
+New York,Japanese,Jan,4.57,49.33,1026,Yes
+New York,Japanese,Jul,4.82,23.11,730,Yes
+Tokyo,French,Jul,4.04,82.18,776,No
+Paris,French,May,4.9,30.2,3954,No
+Cairo,Street Food,Jan,4.9,10.6,155,No
+Rio de Janeiro,Vegan / Plant-Based,Apr,4.84,48.16,4514,No
+Sydney,Italian,Jan,4.36,15.38,2568,Yes
+New York,Vegan / Plant-Based,Feb,4.72,18.61,965,No
+Rio de Janeiro,French,Jul,4.53,8.32,2034,Yes
+Paris,Indian,Jun,4.68,47.54,4153,No
+Sydney,Japanese,Feb,3.9,177.27,1857,No
+Tokyo,Mexican,Jan,4.26,60.23,734,No
+Sydney,French,Aug,4.67,57.25,3000,No
+Paris,Italian,Jun,4.62,10.17,3700,No
+Paris,Japanese,Sep,4.63,17.06,4135,Yes
+Rio de Janeiro,Vegan / Plant-Based,Sep,4.8,55.39,4558,No
+Rio de Janeiro,French,Jun,4.3,57.73,625,Yes
+London,Street Food,Nov,4.61,21.64,1848,No
+Tokyo,Vegan / Plant-Based,Dec,4.52,14.27,134,Yes
+Tokyo,Street Food,Dec,4.69,15.29,1433,No
+Cairo,Indian,Mar,4.89,18.22,1637,Yes
+Tokyo,French,Feb,3.98,99.4,743,No
+Sydney,Street Food,Aug,4.55,120.06,2882,Yes
+Tokyo,French,Aug,3.87,42.06,4209,No
+Tokyo,Indian,May,4.57,15.25,2748,Yes
+Rio de Janeiro,Vegan / Plant-Based,Jan,4.81,47.1,4157,Yes
+Cairo,Italian,Aug,4.79,36.3,1740,No
+Sydney,Mexican,Jan,4.31,37.87,2509,Yes
+London,Japanese,Oct,4.51,52.79,4884,Yes
+Paris,Indian,Aug,4.66,43.85,3602,Yes
+London,Street Food,Jan,4.54,84.68,911,No
+Tokyo,French,Feb,4.74,14.22,770,No
+London,Mexican,Sep,4.86,167.73,3721,No
+Sydney,Street Food,Jun,4.82,15.27,3367,Yes
+Paris,Japanese,Dec,4.51,60.79,4299,No
+London,Vegan / Plant-Based,Oct,4.93,54.05,895,No
+New York,Mexican,Jun,4.94,96.22,1021,No
+Rio de Janeiro,Indian,Dec,4.79,60.88,2313,Yes
+Cairo,Street Food,Apr,4.98,44.84,762,No
+London,Street Food,Aug,4.28,28.15,2296,No
+New York,Indian,Aug,4.37,26.9,1038,No
+Rio de Janeiro,Indian,Mar,4.59,30.97,3720,No
+New York,Japanese,Apr,4.79,143.39,4865,Yes
+New York,Italian,Mar,4.26,69.88,1379,Yes
+Paris,Italian,Jun,4.38,91.48,4385,No
+New York,Mexican,Sep,4.77,76.8,4143,Yes
+Cairo,Vegan / Plant-Based,Feb,4.12,55.21,3094,No
+Paris,Indian,Feb,4.8,14.99,1237,Yes
+London,Street Food,Aug,4.76,19.88,2644,No
+New York,French,May,4.52,48.88,1669,No
+London,Indian,Apr,4.43,26.1,1923,No
+Cairo,Japanese,Nov,4.39,13.42,4475,No
+Sydney,Street Food,Nov,4.68,19.04,2837,Yes
+New York,Mexican,Jul,4.59,15.07,4184,No
+Sydney,Japanese,May,3.78,47.72,3794,Yes
+Paris,Vegan / Plant-Based,Aug,4.56,29.47,3342,Yes
+Cairo,Vegan / Plant-Based,Apr,4.65,35.43,2111,Yes
+London,French,Feb,4.46,49.45,182,No
+Paris,Vegan / Plant-Based,Aug,4.49,13.04,4062,No
+Cairo,Japanese,Jul,4.96,19.38,3695,Yes
+Rio de Janeiro,Vegan / Plant-Based,Aug,4.37,17.89,2855,Yes
+London,Japanese,Oct,4.98,15.52,4879,No
+Tokyo,French,Sep,4.84,18.36,4546,Yes
+Rio de Janeiro,Street Food,May,4.31,33.52,413,No
+Tokyo,Street Food,Jul,4.92,40.38,3652,No
+Rio de Janeiro,Vegan / Plant-Based,Sep,4.49,9.71,1758,No
+Rio de Janeiro,Street Food,Oct,4.72,11.67,4004,No
+Cairo,Mexican,Nov,4.58,41.65,2720,No
+Paris,Japanese,Nov,4.75,45.54,3279,No
+Cairo,Vegan / Plant-Based,Nov,4.1,116.32,1072,Yes
+Sydney,Italian,Oct,4.7,39.32,2561,No
+Paris,Mexican,Aug,4.73,25.09,2901,No
+New York,Italian,May,4.85,55.62,3904,Yes
+Sydney,Italian,Nov,3.87,29.4,3723,Yes
+London,Japanese,Mar,4.69,54.59,2432,Yes
+New York,French,Aug,4.84,58.48,2500,No
+London,Mexican,Feb,4.24,13.11,3898,No
+Sydney,Vegan / Plant-Based,Jun,4.52,21.74,919,Yes
+New York,French,Oct,4.27,23.56,140,No
+London,Vegan / Plant-Based,Aug,4.86,116.05,4239,No
+Sydney,Street Food,Apr,4.47,86.42,2421,Yes
+Rio de Janeiro,Street Food,Apr,4.34,10.99,2861,No
+Paris,Japanese,Feb,4.43,15.22,1273,No
+Sydney,Mexican,Oct,4.82,18.31,4922,Yes
+Cairo,Indian,Jun,4.19,78.66,2269,Yes
+Cairo,Italian,Apr,4.68,49.1,3717,Yes
+Paris,Street Food,Jun,4.59,10.19,1527,Yes
+London,Vegan / Plant-Based,Jun,4.41,30.8,4729,No
+New York,Street Food,Jun,4.44,55.03,738,Yes
+Rio de Janeiro,French,Jun,4.84,12.24,3315,Yes
+Cairo,Mexican,Jun,4.54,39.87,1213,No
+London,Italian,Jun,4.66,27.09,3828,No
+Cairo,Indian,May,4.66,102.71,34,Yes
+Tokyo,Vegan / Plant-Based,Aug,4.45,95.72,4703,No
+Paris,French,Sep,4.8,28.67,3307,No
+Rio de Janeiro,Street Food,Sep,4.61,26.58,4117,Yes
+Sydney,Vegan / Plant-Based,Feb,4.84,63.35,4128,Yes
+New York,Street Food,Dec,4.3,23.15,1146,Yes
+London,Indian,Jan,4.39,16.7,3677,No
+Paris,French,Aug,4.89,19.42,967,No
+Paris,Street Food,Nov,4.0,28.58,4731,No
+London,Japanese,Feb,4.69,37.81,4168,No
+Sydney,Japanese,Dec,4.18,22.32,3195,No
+New York,Mexican,Jan,3.59,59.11,2089,No
+Rio de Janeiro,Street Food,Mar,3.68,126.97,277,No
+London,Vegan / Plant-Based,Aug,4.23,72.37,4134,Yes
+Rio de Janeiro,Vegan / Plant-Based,Oct,4.31,26.29,955,No
+Cairo,Street Food,Jan,3.99,42.81,3282,No
+Tokyo,Street Food,Dec,4.88,34.68,4062,Yes
+Cairo,Italian,Jun,4.41,55.37,3779,Yes
+London,Italian,Sep,4.57,42.38,1147,No
+Paris,Japanese,Mar,4.13,9.33,3959,No
+Paris,Vegan / Plant-Based,Jan,4.87,8.87,4451,No
+Rio de Janeiro,Italian,Mar,3.95,112.38,2321,Yes
+Rio de Janeiro,Indian,Apr,4.53,8.73,2178,No
+Rio de Janeiro,Mexican,Jun,4.28,25.1,2791,No
+Paris,Street Food,Feb,4.45,9.17,649,No
+Cairo,Indian,Mar,4.95,13.21,3329,No
+Cairo,Vegan / Plant-Based,Mar,4.77,65.38,4435,No
+Rio de Janeiro,Italian,Oct,4.3,16.66,4590,Yes
+Rio de Janeiro,Vegan / Plant-Based,Dec,4.35,67.65,4445,Yes
+Sydney,French,Feb,4.73,92.73,545,Yes
+Rio de Janeiro,French,Nov,4.5,15.77,3587,No
+London,Indian,Nov,4.74,75.26,4739,No
+Paris,Street Food,Sep,4.67,27.2,929,No
+Cairo,French,Apr,4.66,14.75,1413,Yes
+Sydney,French,Feb,4.05,9.21,3681,No
+New York,Vegan / Plant-Based,Apr,4.9,20.86,906,No
+Sydney,Vegan / Plant-Based,Dec,4.86,129.68,2642,No
+Tokyo,Vegan / Plant-Based,Apr,4.24,43.25,1911,Yes
+Rio de Janeiro,Street Food,Apr,4.44,16.05,578,Yes
+Tokyo,Indian,Apr,4.84,22.1,3191,No
+Rio de Janeiro,French,Jan,4.46,74.1,4070,No
+Cairo,French,Nov,4.52,21.81,2774,No
+New York,Street Food,Jan,4.77,19.83,3664,No
+Rio de Janeiro,Vegan / Plant-Based,Nov,4.39,38.46,4052,No
+Tokyo,Street Food,Sep,4.53,11.24,648,No
+Sydney,Italian,Nov,4.58,50.45,1261,Yes
+Paris,Indian,Apr,4.57,25.59,3997,Yes
+Rio de Janeiro,Indian,Dec,4.57,9.44,246,No
+Paris,Indian,Sep,4.92,54.39,4922,No
+Cairo,Japanese,Aug,4.28,176.96,1453,No
+Tokyo,Japanese,Jul,4.82,19.98,926,No
+Tokyo,Indian,Dec,4.16,9.49,3181,Yes
+New York,Italian,Dec,4.89,132.84,2143,No
+Paris,French,Jun,4.67,127.27,2922,No
+New York,Indian,Mar,4.67,92.07,4081,Yes
+Rio de Janeiro,Indian,Dec,4.57,11.26,3246,No
+Rio de Janeiro,Vegan / Plant-Based,Nov,4.44,13.99,1016,No
+Rio de Janeiro,Indian,Apr,4.97,80.66,3666,Yes
+Rio de Janeiro,Street Food,Sep,4.77,15.78,3210,No
+Tokyo,Vegan / Plant-Based,Nov,4.88,8.33,4310,No
+Paris,Street Food,Jun,4.8,24.86,4213,Yes
+Sydney,Italian,Jan,3.92,66.31,2543,No
+Tokyo,Indian,Jul,4.64,54.83,4776,No
+Rio de Janeiro,Mexican,Aug,4.56,14.3,2901,No
+Tokyo,Indian,May,4.77,33.92,2102,Yes
+London,Italian,Apr,4.33,39.02,487,No
+Sydney,Street Food,Apr,4.05,31.14,4933,No
+Rio de Janeiro,Italian,Jan,4.66,12.26,3356,No
+Paris,Japanese,May,4.89,10.72,3743,No
+New York,Vegan / Plant-Based,Feb,4.89,20.25,142,No
+Paris,Indian,Sep,4.85,17.54,1015,Yes
+Tokyo,Indian,Dec,4.75,43.1,4296,No
+Rio de Janeiro,Italian,Oct,4.46,36.41,4073,No
+Tokyo,Vegan / Plant-Based,Nov,4.83,33.95,1185,Yes
+Sydney,Japanese,Jul,4.85,14.59,3026,Yes
+Cairo,Vegan / Plant-Based,Mar,4.88,46.8,479,No
+London,Street Food,Sep,4.64,21.89,4979,No
+Sydney,Japanese,Dec,4.69,48.4,2522,Yes
+Cairo,Mexican,Dec,4.33,38.98,2234,Yes
+Cairo,French,Jun,4.55,12.46,2792,Yes
+London,Japanese,Mar,4.86,37.52,2312,Yes
+Sydney,French,Jan,4.57,10.54,1168,Yes
+Tokyo,Indian,Apr,4.33,47.85,4528,No
+New York,Street Food,Jan,4.49,19.32,3608,No
+Paris,Street Food,Aug,4.71,59.17,2244,Yes
+Paris,French,Jun,4.38,63.52,656,Yes
+Rio de Janeiro,Mexican,Feb,4.34,18.18,52,No
+Rio de Janeiro,French,Sep,3.77,12.04,3704,No
+Paris,Vegan / Plant-Based,Sep,4.96,18.3,3113,Yes
+Paris,Japanese,Mar,4.01,8.74,3186,Yes
+Rio de Janeiro,Japanese,May,4.9,20.61,159,No
+Paris,Street Food,Oct,4.21,18.13,776,No
+Paris,Indian,Jan,4.29,25.27,4279,Yes
+Tokyo,Indian,Apr,4.68,20.97,814,Yes
+Paris,Indian,Jan,4.64,13.34,4653,No
+Sydney,Italian,Jan,4.39,12.61,4318,No
+Tokyo,Italian,Mar,4.32,21.08,537,No
+London,Mexican,Jul,4.88,25.87,2596,No
+New York,French,Dec,4.59,59.49,455,No
+Paris,Italian,Aug,4.98,19.46,3338,No
+New York,Italian,May,4.49,8.58,4087,Yes
+Tokyo,Japanese,Sep,4.7,83.19,874,Yes
+London,Italian,May,4.48,16.93,1410,No
+Cairo,Italian,Jan,4.39,49.42,1591,No
+Rio de Janeiro,Mexican,Mar,4.69,67.16,87,No
+Sydney,Street Food,Jul,4.71,22.77,1659,Yes
+New York,Street Food,Oct,4.97,8.38,2354,No
+Rio de Janeiro,Japanese,Mar,4.23,14.67,4842,Yes
+Tokyo,Mexican,Nov,4.77,36.5,2627,No
+Paris,Japanese,Jan,4.91,29.79,29,Yes
+Tokyo,Italian,Aug,4.61,16.41,3670,No
+Sydney,Street Food,Sep,4.74,12.07,574,No
+New York,Vegan / Plant-Based,Jun,4.48,25.5,2553,No
+New York,French,Dec,4.39,43.61,3090,No
+Tokyo,Italian,Apr,4.54,71.32,1189,Yes
+Cairo,Japanese,Mar,4.36,142.21,809,Yes
+Rio de Janeiro,Street Food,Sep,4.91,18.08,1861,No
+London,Indian,Apr,4.7,16.62,3888,No
+London,Japanese,May,4.94,23.01,1370,Yes
+New York,Street Food,Aug,4.88,8.88,2728,Yes
+Sydney,Indian,Jun,4.73,69.94,2900,No
+London,Vegan / Plant-Based,Jan,4.58,81.32,488,No
+London,Japanese,Sep,4.66,116.84,2249,Yes
+Sydney,Italian,Apr,3.95,44.74,4650,No
+Paris,French,Feb,4.16,56.13,3800,Yes
+London,Italian,Apr,4.02,10.79,3441,Yes
+Tokyo,French,Jun,4.72,25.7,612,No
+Tokyo,Street Food,Nov,4.58,79.13,3206,No
+Paris,French,Nov,4.69,28.45,731,No
+Sydney,Indian,Nov,4.82,27.52,3456,Yes
+Sydney,Street Food,Dec,4.94,10.01,3109,No
+London,Italian,Nov,4.24,32.11,4934,No
+Paris,French,May,4.81,19.08,948,No
+New York,Vegan / Plant-Based,Aug,4.48,29.85,2088,Yes
+New York,Italian,May,4.73,15.75,2136,No
+Cairo,Mexican,Aug,4.54,60.9,4246,Yes
+Tokyo,French,Dec,4.62,23.96,1043,No
+Cairo,Street Food,Oct,4.53,11.33,4884,No
+Cairo,Indian,Feb,4.97,12.23,2599,No
+Paris,French,Jul,4.25,24.33,455,Yes
+Cairo,Japanese,May,4.89,62.95,3385,Yes
+Cairo,Mexican,Oct,4.64,42.21,2035,No
+Tokyo,Street Food,Jul,4.96,33.21,4399,Yes
+London,Street Food,Jan,4.47,26.84,3536,Yes
+Tokyo,Mexican,Feb,4.95,13.96,96,No
+New York,Mexican,Dec,4.65,103.55,3640,No
+Cairo,Mexican,Feb,4.85,19.0,240,No
+Rio de Janeiro,Japanese,Aug,4.58,32.88,1008,No
+London,Japanese,Aug,4.65,12.88,3009,Yes
+Paris,French,Mar,4.52,14.38,4620,Yes
+Paris,Street Food,Dec,4.59,28.98,138,Yes
+Sydney,Italian,Apr,4.8,9.04,3192,No
+London,Street Food,Jun,4.18,22.18,4404,No
+London,Vegan / Plant-Based,Aug,4.78,12.54,3428,Yes
+New York,Street Food,Oct,4.84,26.68,3612,No
+Paris,Mexican,Jul,4.54,46.97,804,Yes
+London,Indian,Aug,3.86,21.08,979,No
+Rio de Janeiro,French,Jul,4.69,68.86,1589,No
+Paris,Japanese,Oct,4.69,27.14,3250,No
+London,Vegan / Plant-Based,Nov,4.53,33.27,2395,Yes
+Tokyo,French,Dec,4.4,44.31,2736,No
+Tokyo,Mexican,Dec,4.59,15.27,4523,Yes
+London,Japanese,Oct,4.86,18.66,2390,No
+London,Indian,Jun,4.76,14.67,853,Yes
+Cairo,Street Food,Jul,4.93,41.97,2847,No
+Sydney,Japanese,Jul,3.71,30.93,2827,Yes
+Cairo,Mexican,Jan,4.79,19.19,3841,No
+Sydney,Street Food,Jan,4.01,10.43,3376,Yes
+Sydney,Mexican,Jun,4.15,14.35,1039,Yes
+Paris,Indian,Sep,4.32,10.24,1822,Yes
+Paris,Italian,Dec,4.82,34.17,3143,Yes
+Paris,Japanese,Apr,4.85,21.96,3079,No
+Cairo,Indian,Nov,4.3,85.48,786,Yes
+Paris,Indian,Oct,4.73,26.74,2311,No
+London,Street Food,May,4.35,50.09,2509,No
+London,Italian,May,4.72,111.17,3122,No
+Rio de Janeiro,Italian,Jan,4.73,34.11,4686,No
+Cairo,Street Food,Oct,4.25,49.25,3609,No
+Cairo,Japanese,Dec,4.76,93.96,1077,No
+Rio de Janeiro,Street Food,Jun,4.71,14.25,2651,No
+New York,Street Food,Jun,4.06,27.53,1493,No
+Sydney,Mexican,Jan,4.92,17.16,3133,Yes
+Cairo,Mexican,Feb,4.2,15.64,1583,No
+Tokyo,Italian,Oct,4.84,87.56,4799,No
+London,Street Food,Jul,4.52,84.38,347,Yes
+Tokyo,Japanese,Jun,4.64,111.57,2711,Yes
+Tokyo,Street Food,Jan,4.63,32.42,3148,No
+Paris,French,Sep,4.46,45.65,3559,No
+Tokyo,Italian,Aug,4.15,71.33,3132,Yes
+Paris,Street Food,Feb,4.78,46.39,4299,Yes
+London,Indian,Feb,4.6,15.69,2899,Yes
+Cairo,Street Food,Aug,4.68,65.89,1244,No
+Sydney,Indian,May,4.57,78.63,4185,No
+London,Indian,Apr,4.29,34.86,3483,Yes
+Tokyo,Japanese,May,4.51,36.37,2183,No
+Cairo,Japanese,Nov,4.86,10.21,2600,Yes
+New York,Vegan / Plant-Based,May,4.57,52.21,2405,No
+New York,Mexican,Jan,4.54,11.19,4856,No
+Cairo,Italian,Dec,4.0,16.13,1232,No
+New York,French,Jan,4.86,117.33,1035,No
+Rio de Janeiro,Mexican,Jul,4.64,29.36,2685,Yes
+New York,French,Oct,4.19,30.17,1562,Yes
+Tokyo,French,Jun,4.74,27.71,3148,No
+Rio de Janeiro,Italian,Mar,4.43,32.36,2000,No
+Rio de Janeiro,Vegan / Plant-Based,Oct,4.92,106.05,740,No
+Cairo,Vegan / Plant-Based,Apr,4.95,104.78,2195,Yes
+Rio de Janeiro,Street Food,Nov,4.62,60.16,3898,Yes
+Rio de Janeiro,Italian,Sep,4.7,51.16,4775,No
+London,Street Food,Feb,4.76,82.01,2922,No
+Sydney,Street Food,May,4.97,43.4,4040,Yes
+Cairo,Street Food,Jun,4.15,20.97,805,No
+Rio de Janeiro,Street Food,Mar,3.87,19.1,4056,Yes
+New York,Mexican,Sep,4.02,26.24,813,Yes
+Rio de Janeiro,French,Aug,4.63,24.78,4543,No
+Sydney,Vegan / Plant-Based,Jul,4.72,35.27,3277,No
+Tokyo,Mexican,Mar,4.84,32.72,71,No
+Tokyo,Italian,Sep,4.06,35.16,3117,Yes
+Paris,Mexican,Jul,4.5,10.65,2002,No
+Cairo,Mexican,May,3.87,33.94,307,No
+Rio de Janeiro,Street Food,Dec,4.37,30.91,4867,Yes
+Cairo,Mexican,Jul,4.7,16.88,2011,No
+New York,Japanese,Feb,4.57,8.5,1338,Yes
+Tokyo,Street Food,May,4.3,71.31,4531,No
+Sydney,Vegan / Plant-Based,Mar,4.88,18.48,4942,No
+Paris,Mexican,Apr,4.92,12.36,379,No
+Paris,Mexican,Mar,4.85,39.67,2588,No
+London,Indian,May,4.53,68.33,1737,No
+Paris,Japanese,Jul,4.51,85.53,3679,No
+Rio de Janeiro,Street Food,Sep,4.5,54.61,1828,No
+Paris,Mexican,Dec,3.95,72.67,4051,Yes
+Tokyo,Vegan / Plant-Based,Dec,3.97,24.33,2150,No
+Cairo,Street Food,Feb,4.45,20.57,3975,No
+New York,French,Aug,4.9,83.54,4771,No
+Paris,Street Food,Sep,4.04,20.25,2778,Yes
+Sydney,Mexican,Apr,4.8,12.92,147,Yes
+Paris,Japanese,Sep,4.85,36.38,2566,Yes
+London,Mexican,Jan,4.38,75.24,2227,No
+Rio de Janeiro,Street Food,Jan,4.81,67.85,603,Yes
+Paris,Vegan / Plant-Based,Apr,4.31,37.82,1680,Yes
+London,Indian,Apr,4.79,21.6,4311,No
+Sydney,Italian,Jul,4.99,12.65,3763,Yes
+Tokyo,French,Mar,4.8,40.56,1833,Yes
+Paris,Italian,Feb,4.75,28.63,3870,No
+Paris,Vegan / Plant-Based,Sep,4.37,9.72,4469,No
+New York,French,Jul,4.83,28.66,643,Yes
+London,Mexican,Jan,4.03,17.57,3302,No
+Rio de Janeiro,French,Sep,4.54,15.37,4394,Yes
+London,Street Food,Jun,4.1,37.7,3617,Yes
+London,French,Sep,4.58,88.65,1771,Yes
+Cairo,Japanese,Mar,4.35,41.88,3957,Yes
+Paris,Mexican,Oct,4.16,21.64,3373,No
+Cairo,Italian,May,4.24,26.28,241,Yes
+Tokyo,Street Food,Jun,4.99,52.06,351,No
+Sydney,Japanese,Apr,4.66,51.65,414,No
+Rio de Janeiro,Vegan / Plant-Based,Dec,4.93,103.42,2031,Yes
+Cairo,Street Food,Mar,4.09,45.09,3250,Yes
+London,Japanese,Jun,4.96,21.47,1657,No
+Paris,Mexican,Apr,4.78,205.93,3595,No
+Sydney,Italian,Jan,4.2,24.67,1292,No
+Rio de Janeiro,Street Food,Apr,4.27,25.0,591,Yes
+New York,Street Food,Aug,4.66,79.27,4133,Yes
+Tokyo,Vegan / Plant-Based,Aug,4.2,8.52,4690,No
+Cairo,French,Jul,4.71,49.83,2644,No
+New York,Japanese,Jul,4.02,86.08,1232,Yes
+London,Japanese,Sep,3.95,32.95,1637,No
+Tokyo,Italian,Jan,4.46,59.01,707,Yes
+Tokyo,Mexican,Nov,4.66,43.64,2002,Yes
+Paris,Vegan / Plant-Based,Mar,4.92,40.35,3609,No
+Tokyo,Street Food,Aug,4.55,28.97,521,No
+Sydney,Mexican,Aug,4.22,71.22,1948,No
+London,Vegan / Plant-Based,Sep,4.71,8.27,687,Yes
+Tokyo,Italian,Jun,3.86,17.06,3655,No
+London,Indian,Apr,4.88,130.31,3951,Yes
+Rio de Janeiro,Vegan / Plant-Based,Dec,4.79,20.06,3279,No
+Rio de Janeiro,Japanese,Dec,4.06,50.52,3715,Yes
+Cairo,Indian,Oct,4.73,36.84,3320,No
+Tokyo,Italian,Mar,4.96,38.69,3996,No
+Paris,French,Aug,4.53,12.75,4376,No
+Paris,Vegan / Plant-Based,Jun,4.3,24.53,3772,Yes
+Paris,Japanese,Jun,4.42,81.08,1332,No
+Rio de Janeiro,Mexican,Dec,4.14,25.26,3233,No
+Cairo,Italian,Aug,4.15,70.5,3463,No
+London,Street Food,Feb,4.23,14.76,442,No
+Paris,Japanese,Mar,4.55,26.12,500,Yes
+Sydney,Italian,Feb,4.49,96.14,4361,No
+New York,Mexican,Apr,4.07,17.66,165,Yes
+Paris,Japanese,Apr,4.18,21.5,569,Yes
+New York,Italian,Feb,4.9,94.37,890,No
+Rio de Janeiro,Mexican,Apr,4.28,31.4,1587,No
+Rio de Janeiro,Italian,Jul,4.41,17.23,565,Yes
